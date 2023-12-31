@@ -4,5 +4,5 @@ console.log("feature-a")
 // git feature-b branch
 console.log("feature-b")
 
-// git feature-b branch
+// git feature-c branch
 console.log("feature-c")
