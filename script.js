@@ -6,3 +6,6 @@ console.log("feature-b")
 
 // git feature-c branch
 console.log("feature-c")
+
+// git feature-d branch
+console.log("feature-d")
